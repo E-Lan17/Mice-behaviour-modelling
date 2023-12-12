@@ -3,7 +3,7 @@ Mice behaviour modelling using ML and DL
 
 The objective is to predict at what time of day (day/night) behaviors took place, based on recording of the mouse's activities over 24 hours.
 
-Example of results of Elbow Method for the the K-means :
+Example of results of Elbow Method for the K-means :
 
 ![Cluster](https://github.com/E-Lan17/Mice-behaviour-modelling/assets/81633998/d56c6a4e-70c0-4b58-a9d7-a0aafcbdb58e)
 
